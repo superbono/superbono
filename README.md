@@ -6,7 +6,7 @@
 
 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=superbono&show_icons=true)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=superbono)](https://solved.ac/superbono)
+
 
 <!--
 **superbono/superbono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
