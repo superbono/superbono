@@ -2,7 +2,7 @@
 
 I am a **junior developer**.\
 I want to grow up as a **developer**, and I am constantly learning.\
-My hobbies are **calligraphy** and watching **movies**.\
+My hobbies are **calligraphy** and watching **movies**.
 
 <!--
 **superbono/superbono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
