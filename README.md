@@ -4,7 +4,9 @@
 - I want to grow up as a **developer**, and I am constantly learning.
 - My hobbies are **calligraphy** and watching **movies**.
 
-                
+
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+
 
 <!--
 **superbono/superbono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
