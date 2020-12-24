@@ -1,6 +1,6 @@
 ### Hello My world! 👋
 
-d
+** I am a junior developer.
 
 <!--
 **superbono/superbono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
