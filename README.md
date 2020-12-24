@@ -1,6 +1,6 @@
 ### Hello My world! 👋
 
-I am a **junior developer**.
+I am a **junior developer**.\
 I want to grow up as a **developer**, and I am constantly learning.
 My hobbies are **calligraphy** and watching **movies**.
 
