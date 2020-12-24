@@ -5,7 +5,7 @@
 - My hobbies are **calligraphy** and watching **movies**.
 
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=superbono&show_icons=true)
+![superbono's github stats](https://github-readme-stats.vercel.app/api?username=superbono&show_icons=true)
 
 
 <!--
