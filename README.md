@@ -7,6 +7,12 @@
 
 ![superbono's github stats](https://github-readme-stats.vercel.app/api?username=superbono&show_icons=true)
 
+### :cyclone: Languages
+![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)  ![Matlab](https://img.shields.io/badge/Matlab-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0076A8?style=plastic&logo=mathworks&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-0095D5?style=plastic&logo=kotlin&logoColor=white)
+
+### :mailbox_with_mail: Contacts
+[![Naver Badge](https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=mailto:wonjobono87@naver.com)](mailto:wonjobono87@naver.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/harim.kang)](https://www.facebook.com/harim.kang) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harim-kang-1bb974179)](https://www.linkedin.com/in/harim-kang-1bb974179) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://davinci-ai.tistory.com/)](https://davinci-ai.tistory.com/)
+
 <!--
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superbono&layout=compact)](https://github.com/superbono/github-readme-stats)
 -->
